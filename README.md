@@ -1,2 +1,2 @@
-# HCL-BLB v2 bloodbank repository.
+# HCL-BLB v2 bloodbank servelet project repository.
 From Nishad @GitHub
